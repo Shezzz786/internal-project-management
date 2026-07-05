@@ -62,5 +62,5 @@ This is a full-stack Internal Project Management System built with the MERN stac
 - **SSL/HTTPS**: Handled automatically by the PaaS providers (Render/Netlify).
 
 ## Live URLs
-- **Frontend URL**: `(Will be generated soon)`
+- **Frontend URL**: `https://project-frontend-7vab.onrender.com`
 - **Backend URL**: `https://internal-project-management.onrender.com`
